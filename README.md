@@ -23,7 +23,7 @@ node app.js
 - [Node.js] - back-end JavaScript runtime environment.
 - [Express] - fast node.js network app framework .
 - [Bootstrap] - great UI boilerplate for modern web apps.
-- [Mailchimp] - Marketing API with custom data pulled directly from your app.
+- [Mailchimp API] - Marketing API with custom data pulled directly from your app.
 
 
 
